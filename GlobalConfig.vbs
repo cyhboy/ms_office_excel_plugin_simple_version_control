@@ -1,6 +1,6 @@
 Option Explicit
 
-Public theDrive As String 'Must Be Defined In Module, the default share drive value is M:, M: means moblile.
+Public theDrive As String 'Must Be Defined In Module, the default share drive value is M:, M: means mobile.
 Public theUser As String 'Must Be Defined In Module, user have 2 mode, standalone and active directory.
 
 Public testing As Boolean
